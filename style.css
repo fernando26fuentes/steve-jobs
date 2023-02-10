@@ -1,0 +1,55 @@
+body{
+
+    background-color: lightblue;
+}
+
+h3{
+
+    color: blue;
+    text-align: center;
+}
+span.Negrita{
+
+    color: black;
+    font-size: 75px;
+}
+a.amarillo:hover{
+
+background-color: yellow;
+color: red;
+}
+p.uno{
+    
+    text-align: center;
+}
+span.color1{
+
+    color: red;
+}
+span.color2{
+
+    color: red;
+}
+a.Enlace1:link{
+
+    background-color: white;
+}
+a.Enlace1:visited{
+    color: white;
+   background-color: blue; 
+}
+a.Enlace2:link{
+
+    background-color: white; 
+ }
+ a.Enlace3:link{
+
+    background-color: white; 
+ }
+img.foto{
+    position: relative;
+    right: -700px;
+    bottom: -300px;
+    width: 300px;
+    height: 300px;
+}
